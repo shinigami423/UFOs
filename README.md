@@ -1,6 +1,6 @@
 # UFOs
 
-## Purpose Of Project
+## Purpose
 To update Dana's webpage to allow users to filter for multiple criteria and provide a more concise UFO sightings data.
 
 ## Results
